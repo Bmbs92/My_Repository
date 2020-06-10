@@ -89,3 +89,5 @@ print(not(x and y))
 "Is not True that either statement x or statement y is True"
 print(not(x or y))
 
+a=10%2
+print(divmod(10,2))
